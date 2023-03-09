@@ -1,3 +1,4 @@
+
 module jeanlucafp/go-intesivo
 
 go 1.18

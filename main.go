@@ -21,4 +21,3 @@ func main() {
 
 	msg := <-canal
 	fmt.Println(msg)
-}
